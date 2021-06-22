@@ -1,1 +1,2 @@
-# shape_ai_cybersecurity_bootcamp
+# cybersecurity-bootcamp Notebooks
+By Harsh Akshit
